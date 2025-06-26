@@ -43,4 +43,3 @@
 
 #### Tools:
 ![VS Code](https://img.shields.io/badge/-VSCode-007ACC?style=flat&logo=visual-studio-code)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style
